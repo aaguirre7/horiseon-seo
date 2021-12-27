@@ -31,6 +31,22 @@
     </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+        <a href="#contact">Contact</a>
+    </li>
+    <li>
+        <a href="#acknowledgments">Acknowledgments</a>
+    </li>
+  </ol>
+</details>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Challange
 
@@ -48,8 +64,7 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 What was done:
 
-*Both index and css files where commented and fixed
-*a readme file was added
+Both index and css files where commented and fixed image files, also this readme was created.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
